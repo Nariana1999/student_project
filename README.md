@@ -1,3 +1,3 @@
 # Student Project
 
-This is the main version.
+A simple Python project for learning Git and GitHub.
